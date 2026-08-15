@@ -1,2 +1,2 @@
-# ziri-agent
+# Ziri-Agent
 Enterprise AI Agent Platform Frontend built with Next.js, React and TypeScript.
