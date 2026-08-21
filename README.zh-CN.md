@@ -1,4 +1,4 @@
-# Ziri
+<img width="100" height="118" alt="2026-08-20_21-29-33" src="https://github.com/user-attachments/assets/7611bd8c-47c1-4df7-97c4-25df3e3aa80f" /># Ziri
 
 **面向企业真实业务执行的企业级 AI Agent 平台**
 
@@ -86,4 +86,6 @@ Ziri 将企业 AI 能力组织为五个相互连接的层级：
 ## 仓库文档说明
 
 安装、配置、开发、部署、贡献与许可证说明，应在对应产品源码发布后依据真实仓库内容补充。本文不会根据公开官网推测这些技术信息。
+<img width="100" height="118" alt="2026-08-20_21-29-33" src="https://github.com/user-attachments/assets/790b66c3-2d48-49cd-828c-782f67da73e7" />
+
 
