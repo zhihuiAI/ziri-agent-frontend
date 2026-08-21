@@ -87,3 +87,7 @@ Enterprise solutions can be adapted to specific business processes, system envir
 
 Installation, configuration, development, deployment, contribution, and licensing instructions should be maintained alongside the corresponding source release. They are intentionally not inferred from the public product website.
 
+## contact info
+<img width="100" height="118" alt="2026-08-20_21-29-33" src="https://github.com/user-attachments/assets/91e8f024-af24-43f1-a53b-da8539b79833" />
+
+
